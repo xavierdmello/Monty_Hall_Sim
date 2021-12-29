@@ -3,10 +3,10 @@
 monty_hall_sim is a brute-force method of determining the optimal strategy for the Monty Hall Problem.
 
 # Usage
-1. Set boolean SWITCH_CHOICE in ```main.py``` to ```True``` (default) or ```False```.
+1. Set boolean ```SWITCH_CHOICE``` in main.py to ```True``` (default) or ```False```.
    - ```True``` represents the player choosing to switch from their initial selection to another door when given the chance.
    - ```False``` represents the player choosing to keep their inital selection when given the chance.
-2. Run ```main.py``` 
+2. Run main.py
 
 When run, main.py will output the approximate probability of winning a car with the choice that you made (keep door, or switch door).
 
